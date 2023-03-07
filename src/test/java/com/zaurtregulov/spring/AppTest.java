@@ -1,4 +1,4 @@
-package org.example;
+package com.zaurtregulov.spring;
 
 import static org.junit.Assert.assertTrue;
 
