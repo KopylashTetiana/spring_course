@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd082e1-4563-4bf9-8081-6bea91ad34d5" name="Changes" comment="DogTest and Pet interface added.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/Pet.java" afterDir="false" />
+    <list default="true" id="1cd082e1-4563-4bf9-8081-6bea91ad34d5" name="Changes" comment="class Dog implements Pet added.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zaurtregulov/spring/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/zaurtregulov/spring/DogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zaurtregulov/spring/DogTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -55,8 +54,8 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zaurtregulov.spring.DogTest" />
+    <configuration name="PetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zaurtregulov.spring.PetTest" />
       <module name="spring_course" />
       <extension name="coverage">
         <pattern>
@@ -70,7 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DogTest" />
+        <item itemvalue="Application.PetTest" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +88,7 @@
       <workItem from="1678192683787" duration="358000" />
       <workItem from="1678193193626" duration="2110000" />
       <workItem from="1678200871737" duration="690000" />
-      <workItem from="1678209710689" duration="2978000" />
+      <workItem from="1678209710689" duration="3280000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1677603106506</created>
@@ -126,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678287022672</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="class Dog implements Pet added.">
+      <created>1678287405645</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678287405645</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +156,7 @@
     <MESSAGE value="The project's groupID and junit version changed (pom.xml)." />
     <MESSAGE value="Class Dog added" />
     <MESSAGE value="DogTest and Pet interface added." />
-    <option name="LAST_COMMIT_MESSAGE" value="DogTest and Pet interface added." />
+    <MESSAGE value="class Dog implements Pet added." />
+    <option name="LAST_COMMIT_MESSAGE" value="class Dog implements Pet added." />
   </component>
 </project>
