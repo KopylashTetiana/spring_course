@@ -1,4 +1,4 @@
-package com.zaurtregulov.spring;
+package com.tetianacopylash.spring;
 
 public class Cat implements Pet {
     @Override

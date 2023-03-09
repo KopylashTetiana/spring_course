@@ -1,4 +1,4 @@
-package com.zaurtregulov.spring;
+package com.tetianacopylash.spring;
 
 import static org.junit.Assert.assertTrue;
 
