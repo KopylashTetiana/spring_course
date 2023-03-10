@@ -9,7 +9,7 @@
 
 
     <bean id = "myPet"
-          class = "com.tetianacopylash.spring.Dog">
+          class = "com.tetianacopylash.spring.Cat">
 
     </bean>
 
