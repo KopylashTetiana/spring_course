@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd082e1-4563-4bf9-8081-6bea91ad34d5" name="Changes" comment="class Person and Test3 added;">
+    <list default="true" id="1cd082e1-4563-4bf9-8081-6bea91ad34d5" name="Changes" comment="Test3.context.close() added;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/tetianacopylash/spring/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tetianacopylash/spring/Test3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +136,7 @@
       <workItem from="1678209710689" duration="8632000" />
       <workItem from="1678369073602" duration="495000" />
       <workItem from="1678369597604" duration="1146000" />
-      <workItem from="1678440066568" duration="1716000" />
+      <workItem from="1678440066568" duration="3048000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1677603106506</created>
@@ -206,7 +208,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678464800241</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="class Person and Test3 added;">
+      <created>1678465624299</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678465624299</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Test3.context.close() added;">
+      <created>1678465790992</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678465790992</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +251,7 @@
     <MESSAGE value="applicationContext added; com.zaurtregulov renamed to com.tetianacopylash;" />
     <MESSAGE value="SpringContext vercion in pom.xml changed from 6 to 5;Test2.java added;" />
     <MESSAGE value="class Person and Test3 added;" />
-    <option name="LAST_COMMIT_MESSAGE" value="class Person and Test3 added;" />
+    <MESSAGE value="Test3.context.close() added;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test3.context.close() added;" />
   </component>
 </project>
