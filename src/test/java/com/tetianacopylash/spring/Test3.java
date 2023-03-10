@@ -9,6 +9,9 @@ public class Test3 {
 //        Pet pet = new Cat();
         Person person = new Person(pet);
         person.callYourPet();
+<<<<<<< HEAD
         context.close();
+=======
+>>>>>>> origin/master
     }
 }
