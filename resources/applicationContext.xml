@@ -14,5 +14,7 @@
     <bean id = "myPerson"
           class = "com.tetianacopylash.spring.Person">
         <property name="pet" ref="myPet"/>
+        <property name="surname" value="Kopylash"/>
+        <property name="age" value="39"/>
     </bean>
 </beans>
