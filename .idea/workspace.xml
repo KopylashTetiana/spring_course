@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd082e1-4563-4bf9-8081-6bea91ad34d5" name="Changes" comment="Surname and age added into class Person; &lt;property... value&gt; added into applicationContext.xml.">
-      <change afterPath="$PROJECT_DIR$/resources/applicationContext2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/myApp.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/tetianacopylash/spring/Test4.java" afterDir="false" />
+    <list default="true" id="1cd082e1-4563-4bf9-8081-6bea91ad34d5" name="Changes" comment="Test4 and applicationContext2.xml created.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/applicationContext2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tetianacopylash/spring/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tetianacopylash/spring/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tetianacopylash/spring/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tetianacopylash/spring/Test4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +157,7 @@
       <workItem from="1678209710689" duration="8632000" />
       <workItem from="1678369073602" duration="495000" />
       <workItem from="1678369597604" duration="1146000" />
-      <workItem from="1678440066568" duration="9916000" />
+      <workItem from="1678440066568" duration="12289000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1677603106506</created>
@@ -265,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678550134638</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Test4 and applicationContext2.xml created.">
+      <created>1678700028256</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678700028256</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,6 +304,7 @@
     <MESSAGE value="bean &quot;myPerson&quot; added;" />
     <MESSAGE value="Setter into Person added; output messages into constructors Person, Dog, Cat added; &lt;constructor-arg ref&gt; changed to &lt;property name&gt; in applicationContext.xml." />
     <MESSAGE value="Surname and age added into class Person; &lt;property... value&gt; added into applicationContext.xml." />
-    <option name="LAST_COMMIT_MESSAGE" value="Surname and age added into class Person; &lt;property... value&gt; added into applicationContext.xml." />
+    <MESSAGE value="Test4 and applicationContext2.xml created." />
+    <option name="LAST_COMMIT_MESSAGE" value="Test4 and applicationContext2.xml created." />
   </component>
 </project>
