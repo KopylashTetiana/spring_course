@@ -10,6 +10,6 @@
 
     <bean id = "myPet"
           class = "com.tetianacopylash.spring.Dog"
-          scope="singleton">
+          scope="prototype">
     </bean>
 </beans>
