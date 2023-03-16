@@ -10,6 +10,7 @@
 
     <bean id = "myPet"
           class = "com.tetianacopylash.spring.Dog"
-          scope="prototype">
+          init-method="init"
+          destroy-method="destroy">
     </bean>
 </beans>
