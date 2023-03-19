@@ -10,7 +10,7 @@ public class Dog implements Pet {
         System.out.println("ClassDog: init method");
     }
 
-    public void destroy() {
+    private void destroy() {
         System.out.println("Class Dog: destroy method");
     }
 

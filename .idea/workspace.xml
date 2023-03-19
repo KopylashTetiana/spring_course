@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd082e1-4563-4bf9-8081-6bea91ad34d5" name="Changes" comment="Attribute scope &quot;singleton&quot; changed to &quot;prototype&quot; in applicationContext2.xml.">
+    <list default="true" id="1cd082e1-4563-4bf9-8081-6bea91ad34d5" name="Changes" comment="String name removed from Dog class, init() and destroy() method added into Dog; init and destroy added into applicationContext2.xml; scope 'prototype' deleted.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/applicationContext2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/tetianacopylash/spring/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tetianacopylash/spring/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/tetianacopylash/spring/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tetianacopylash/spring/Test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tetianacopylash/spring/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tetianacopylash/spring/Test5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;9b53fb1ff443d8dbf0d085479fc14677&quot;
   }
 }</component>
@@ -162,7 +162,9 @@
       <workItem from="1678955965639" duration="1797000" />
       <workItem from="1678958788134" duration="3161000" />
       <workItem from="1678965648599" duration="779000" />
-      <workItem from="1678978380072" duration="311000" />
+      <workItem from="1678978380072" duration="972000" />
+      <workItem from="1679061226141" duration="1830000" />
+      <workItem from="1679219126596" duration="2043000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1677603106506</created>
@@ -290,7 +292,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678729669114</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="String name removed from Dog class, init() and destroy() method added into Dog; init and destroy added into applicationContext2.xml; scope 'prototype' deleted.">
+      <created>1678979088706</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1678979088706</updated>
+    </task>
+    <task id="LOCAL-00020" summary="String name removed from Dog class, init() and destroy() method added into Dog; init and destroy added into applicationContext2.xml; scope 'prototype' deleted.">
+      <created>1678979138391</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1678979138391</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,6 +344,8 @@
     <MESSAGE value="String Dog.name parameter, setName and getName added;operations with myDog.name and yourDog.name added into class Test4. Default attribute scope &quot;singleton&quot; added into applicationContext2.xml." />
     <MESSAGE value="Attribute scope &quot;singleton&quot; chenged to &quot;prototype&quot; in applicationContext2.xml." />
     <MESSAGE value="Attribute scope &quot;singleton&quot; changed to &quot;prototype&quot; in applicationContext2.xml." />
-    <option name="LAST_COMMIT_MESSAGE" value="Attribute scope &quot;singleton&quot; changed to &quot;prototype&quot; in applicationContext2.xml." />
+    <MESSAGE value="String name removed from Dog class, init() and destroy() method added into Dog class and into applicationContext2.xml; scope 'prototype' deleted. Test5 added." />
+    <MESSAGE value="String name removed from Dog class, init() and destroy() method added into Dog; init and destroy added into applicationContext2.xml; scope 'prototype' deleted." />
+    <option name="LAST_COMMIT_MESSAGE" value="String name removed from Dog class, init() and destroy() method added into Dog; init and destroy added into applicationContext2.xml; scope 'prototype' deleted." />
   </component>
 </project>
